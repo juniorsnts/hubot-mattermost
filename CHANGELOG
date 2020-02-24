@@ -1,0 +1,18 @@
+# v.0.4.0 - Bender com Suporte Docker
+-  Criado Dockerfile
+-  Novo script `docker-build.sh`
+   
+# v.0.3.0 - Upgrade no Script de Monitoracao
+-  Segunda versão do nosso script de monitoracao: `monitor.coffee`   
+-  Documentação no header dos scripts  
+
+# v.0.2.0 - Script de Monitoracao
+- Primeira versão do nosso script de monitoracao: `monitor.coffee`  
+  
+# v.0.1.0 - Kickstart / Plugins de Terceiros
+-  Fizemos o Kickstart do Mattermost 
+-  Configuramos Hookscripts
+-  Geramos nosso Robô via yeoman
+-  Criamos o script `bender-startup.sh`
+-  Instalamos dois plugins, conhecemos o `package.json`
+-  Atualizamos o `external-scripts.json`
